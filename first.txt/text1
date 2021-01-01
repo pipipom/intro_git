@@ -6,4 +6,4 @@ git commit
 git rm
 git log
 git commit -v
-git status
+git diff
